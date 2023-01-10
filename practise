@@ -1,0 +1,23 @@
+[33mcommit 76998ebee36494b3be991b0fb32d6bdb9ebec2bc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Manoj Devare <devare.manoj@gmail.com>
+Date:   Wed Sep 14 09:53:51 2022 +0530
+
+    all changes in one go
+
+[33mcommit ffb3e495ad788d16a4b5db185dfb5b43e2c062cc[m
+Author: Manoj Devare <devare.manoj@gmail.com>
+Date:   Wed Sep 14 09:48:42 2022 +0530
+
+    this is second commit
+
+[33mcommit ff0812142f43f7da33eca9a4aadd3cfd707b6865[m
+Author: Manoj Devare <devare.manoj@gmail.com>
+Date:   Wed Sep 14 09:42:56 2022 +0530
+
+    this commit done after PO instructions
+
+[33mcommit 1a55ff3915dcbd9224830ac471712251f8ce0ea6[m
+Author: mdevare80 <55269603+mdevare80@users.noreply.github.com>
+Date:   Wed Sep 14 09:31:01 2022 +0530
+
+    Initial commit
